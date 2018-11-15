@@ -12,7 +12,7 @@ The **vsdk-document-sample** project covers the use of custom actions on a docum
 Import the project as a Maven project. This will automatically pull in the required Vault Java SDK dependencies. 
 
 For Intellij this is done by:
-- File > Open > Navigate to project folder -> Select the 'pom.xml' file > Open as Project
+- File > Open > Navigate to project folder > Select the 'pom.xml' file > Open as Project
 
 For Eclipse this is done by:
 - File > Import > Maven > Existing Maven Projects > Navigate to project folder > Select the 'pom.xml' file
@@ -44,7 +44,7 @@ For this project, the custom actions and necessary vault components are containe
     > **Quality** Vault: **\deploy-vpk\components\Quality_vsdk-document-sample-components\Quality_vsdk-document-sample-components.vpk** file.
 
 8.  Create two documents with the  **vSDK Document** type:
-    -   From the main page select  **Create -> Upload**
+    -   From the main page select  **Create > Upload**
     -   Upload the  **Parent vSDK Document.txt** and  **Related vSDK Document.txt**  files in the  **deploy-vpk**  directory.            
 9.  Navigate to the  **Parent vSDK Document**, select the blue  **+**  button next to the  **Supporting Documents**  section and add (**+**) the  **Related vSDK Document**.  
 	  
