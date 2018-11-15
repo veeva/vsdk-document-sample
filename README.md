@@ -12,10 +12,10 @@ The **vsdk-document-sample** project covers the use of custom actions on a docum
 Import the project as a Maven project. This will automatically pull in the required Vault Java SDK dependencies. 
 
 For Intellij this is done by:
--	File -> Open -> Navigate to project folder -> Select the 'pom.xml' file -> Open as Project
+- File > Open > Navigate to project folder -> Select the 'pom.xml' file > Open as Project
 
 For Eclipse this is done by:
--	File -> Import -> Maven -> Existing Maven Projects -> Navigate to project folder -> Select the 'pom.xml' file
+- File > Import > Maven > Existing Maven Projects > Navigate to project folder > Select the 'pom.xml' file
 
 
 ## Setup
