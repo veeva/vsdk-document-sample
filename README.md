@@ -22,7 +22,7 @@ For Eclipse this is done by:
 
 For this project, the custom actions and necessary vault components are contained in the two separate vault packages (VPK). The VPKs are located in the project's **deploy-vpk** directory  and **need to be deployed to your vault** prior to debugging these use cases:
 
-1.  Clone or download the sample Maven project [vSDK Document Sample project](https://gitlab.com/veeva/vsdk-document-sample) from Gitlab.
+1.  Clone or download the sample Maven project [vSDK Document Sample project](https://github.com/veeva/vsdk-document-sample) from GitHub.
 2.  Run through the [Getting Started](https://developer.veevavault.com/sdk/#Getting_Started) guide to setup your development environment.
 3.  Log in to your vault and navigate to **Admin > Deployment > Inbound Packages** and click **Import**:
 4.  Locate and select the following file in your downloaded project file:
