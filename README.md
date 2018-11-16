@@ -27,21 +27,20 @@ For this project, the custom actions and necessary vault components are containe
 3.  Log in to your vault and navigate to **Admin > Deployment > Inbound Packages** and click **Import**:
 4.  Locate and select the following file in your downloaded project file:
 
-    > **Document Action** code: **\deploy-vpk\code\vsdk-document-sample-code.vpk** file.
+    > **Document Action** code: `\deploy-vpk\code\vsdk-document-sample-code.vpk` file.
  
 5.  From the **Actions** menu (gear icon), select **Review & Deploy**. Vault displays a list of all components in the package.   
 6.  Review the prompts to deploy the package. You will receive an email when vault completes the deployment.
 7.  Repeat steps 3-6 for the vault components, select the package that matches your vault type:
+    > **Base** Vault: `\deploy-vpk\components\Base_vsdk-document-sample-components\Base_vsdk-document-sample-components.vpk` file.
 
-    > **Base** Vault: **\deploy-vpk\components\Base_vsdk-document-sample-components\Base_vsdk-document-sample-components.vpk** file.
-
-    > **Multichannel** Vault: **\deploy-vpk\components\Multichannel_vsdk-document-sample-components\Multichannel_vsdk-document-sample-components.vpk** file
-    
-    > **Clinical** Vault: **\deploy-vpk\components\Clinical_vsdk-document-sample-components\Clinical_vsdk-document-sample-components.vpk** file.
-    
-    > **RIM** Vault: **\deploy-vpk\components\RIM_vsdk-document-sample-components\RIM_vsdk-document-sample-components.vpk** file.
-    
-    > **Quality** Vault: **\deploy-vpk\components\Quality_vsdk-document-sample-components\Quality_vsdk-document-sample-components.vpk** file.
+    > **Multichannel** Vault: `\deploy-vpk\components\Multichannel_vsdk-document-sample-components\Multichannel_vsdk-document-sample-components.vpk` file.      
+   
+    > **Clinical** Vault: `\deploy-vpk\components\Clinical_vsdk-document-sample-components\Clinical_vsdk-document-sample-components.vpk` file. 
+   
+    > **RIM** Vault: `\deploy-vpk\components\RIM_vsdk-document-sample-components\RIM_vsdk-document-sample-components.vpk` file.
+   
+    > **Quality** Vault: `\deploy-vpk\components\Quality_vsdk-document-sample-components\Quality_vsdk-document-sample-components.vpk` file.
 
 8.  Create two documents with the  **vSDK Document** type:
     -   From the main page select  **Create > Upload**
