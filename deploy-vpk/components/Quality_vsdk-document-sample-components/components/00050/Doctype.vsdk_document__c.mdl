@@ -15,7 +15,7 @@ RECREATE Doctype vsdk_document__c (
    role_defaulting_editors(),
    role_defaulting_viewers(),
    role_defaulting_consumers(),
-   relationship_types('supporting_documents__c'),
+   relationship_types('supporting_documents__vs'),
    milestone_types(),
    processes(),
    etmf_department(),
