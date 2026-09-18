@@ -6,7 +6,7 @@
 </source>
 <summary>vSDK Document Sample Project</summary>
 <description>This VPK contains the required Vault Java SDK source code for running the &quot;vsdk-document-sample&quot; project.</description>
--<javasdk>
+<javasdk>
 	<deployment_option>incremental</deployment_option>
 </javasdk>
 </vaultpackage>
