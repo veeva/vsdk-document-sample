@@ -1,0 +1,5 @@
+RECREATE Docrelationshiptype supporting_documents__c (
+   label('Supporting Documents'),
+   active(true),
+   target_doctype('vsdk_document__c')
+);
